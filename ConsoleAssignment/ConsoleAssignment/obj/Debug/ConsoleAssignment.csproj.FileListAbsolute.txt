@@ -1,0 +1,6 @@
+c:\users\eric pickard\documents\visual studio 2013\Projects\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe.config
+C:\Users\Eric Pickard\Documents\Visual Studio 2013\Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.csprojResolveAssemblyReference.cache
+C:\Users\Eric Pickard\Documents\Visual Studio 2013\Projects\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.exe
+C:\Users\Eric Pickard\Documents\Visual Studio 2013\Projects\ConsoleAssignment\ConsoleAssignment\bin\Debug\ConsoleAssignment.pdb
+C:\Users\Eric Pickard\Documents\Visual Studio 2013\Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.exe
+C:\Users\Eric Pickard\Documents\Visual Studio 2013\Projects\ConsoleAssignment\ConsoleAssignment\obj\Debug\ConsoleAssignment.pdb
